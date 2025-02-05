@@ -49,7 +49,7 @@ We are using the **Insects Flight Dynamics** dataset from Kaggle:
 
 ### **💻 Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Applied-Data-Science.git
+git clone https://github.com/srusam/Applied-Data-Science-.git
 cd Applied-Data-Science
 ```
 ### **📌 Open in Google Colab**  

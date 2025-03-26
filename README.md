@@ -31,7 +31,7 @@ We are using the **Insects Flight Dynamics** dataset from Kaggle:
 - Use **distance-based and density-based methods (e.g., DBSCAN, Isolation Forest)** for detecting anomalies.  
 
 ### **7️⃣ Time Series Forecasting for Healthcare Diagnosis**  
-- Apply **ARIMA, LSTM, and Prophet models** for predicting healthcare-related trends.  
+- Apply **Decomposition (Trends, Seasonality, Noise) and Smoothing (Simple Moving Average, Weighted Moving Average, Exponential Moving Average)** for predicting healthcare-related trends.  
 
 ### **8️⃣ Case Study: Data Science Lifecycle**  
 - Illustrate the **end-to-end Data Science lifecycle** for a selected case study.  
